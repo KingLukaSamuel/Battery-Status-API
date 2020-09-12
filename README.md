@@ -10,5 +10,4 @@ The Battery Status API extends window.navigator with a navigator.getBattery() me
 
 <h1>See video</h1>
 <iframe width="560" height="315"
-src="https://youtu.be/zUQci6y4oP0?&autoplay=1"frameborder="0" 
-allowfullscreen></iframe>
+src="https://youtu.be/zUQci6y4oP0"></iframe>
