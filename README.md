@@ -8,6 +8,7 @@ The Battery Status API, more often referred to as the Battery API, provides info
 
 The Battery Status API extends window.navigator with a navigator.getBattery() method returning a battery promise, which is resolved in a BatteryManager object providing also some new events you can handle to monitor the battery status.
 
-<h1>See video</h1>
-<iframe width="560" height="315"
-src="https://youtu.be/zUQci6y4oP0"></iframe>
+<h1>See video link:<br>
+ https://youtu.be/zUQci6y4oP0
+</h1>
+
